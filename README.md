@@ -1,2 +1,3 @@
 # first-respository
-this is my first espository
+this is my first espository.
+Author-Praveen nath
